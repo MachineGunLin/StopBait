@@ -68,28 +68,30 @@ StopBait 不是“内容过滤器”这四个字。
 ## 如何开始使用
 
 Chrome 商店还在审核。  
-这段时间先手动装，30 秒就能跑起来：
+现在建议直接上「极客内测版」，一步一步来就行：
 
-1. 下载本项目代码并解压。
-2. 打开 Chrome 扩展程序页面：`chrome://extensions/`。
-3. 开启右上角「开发者模式」。
-4. 点击「加载已解压的扩展程序」，选择本项目文件夹。
+1. 前往 Releases 页面：`https://github.com/MachineGunLin/StopBait/releases/tag/v1.0.0`
+2. 下载最新版 `StopBait-v1.0.0-Chrome.zip`。
+3. 解压压缩包，你会看到一个 `dist` 文件夹。
+4. 打开 Chrome，在地址栏输入 `chrome://extensions/`。
+5. 开启右上角的「开发者模式」。
+6. 点击左上角的「加载已解压的扩展程序」，选择刚才那个 `dist` 文件夹。
 
 ---
 
 ## 未来计划（TODO）
 
-- [ ] 适配知乎、B站、X (Twitter)、YouTube。
-- [ ] 增加预设包的一键同步与更新。
-- [ ] 优化移动端浏览器的兼容性支持。
+- [ ] 适配 知乎
+- [ ] 适配 B站 (Bilibili)
+- [ ] 适配 X (Twitter)
+- [ ] 适配 YouTube
 
 ---
 
 ## 联系与反馈
 
-这个插件完全免费，100% 不收集个人信息。  
-就一个原因：我实在受不了标题党。
+这个插件完全免费，100% 不收集个人信息，我只是单纯反感标题党。
 
 如果你有想支持的网站，或者想加的功能，欢迎直接来聊。  
-树哥的思考： [https://www.xiaohongshu.com/user/profile/67fbe0ba000000000d00a703](https://www.xiaohongshu.com/user/profile/67fbe0ba000000000d00a703)
+树哥的思考： [树哥的思考](https://www.xiaohongshu.com/user/profile/67fbe0ba000000000d00a703)
 
