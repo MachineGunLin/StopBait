@@ -52,11 +52,8 @@ StopBait 不是“内容过滤器”这四个字。
 
 ## 隐私这件事
 
-最直白的话：  
-**代码开源，数据只在浏览器里。**
+**代码开源，数据只在浏览器里，我不会收集你的信息。**
 
-我不看你的。  
-你也别想骗我的。
 
 ---
 
@@ -67,10 +64,10 @@ StopBait 不是“内容过滤器”这四个字。
 
 ## 如何开始使用
 
-Chrome 商店还在审核。  
+Chrome 商店还在审核，审核通过后可以直接在 chrome 商店安装此插件。  
 现在建议直接上「极客内测版」，一步一步来就行：
 
-1. 前往 Releases 页面：`https://github.com/MachineGunLin/StopBait/releases/tag/v1.0.0`
+1. 前往 [Releases 页面](https://github.com/MachineGunLin/StopBait/releases/tag/v1.0.0)
 2. 下载最新版 `StopBait-v1.0.0-Chrome.zip`。
 3. 解压压缩包，你会看到一个 `dist` 文件夹。
 4. 打开 Chrome，在地址栏输入 `chrome://extensions/`。
@@ -92,6 +89,4 @@ Chrome 商店还在审核。
 
 这个插件完全免费，100% 不收集个人信息，我只是单纯反感标题党。
 
-如果你有想支持的网站，或者想加的功能，欢迎直接来聊。  
-树哥的思考： [树哥的思考](https://www.xiaohongshu.com/user/profile/67fbe0ba000000000d00a703)
-
+如果你有想支持的网站，或者想加的功能，欢迎直接来聊：[树哥的思考](https://www.xiaohongshu.com/user/profile/67fbe0ba000000000d00a703)
