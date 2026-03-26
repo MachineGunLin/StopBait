@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+logs/
+.openclaw/
+soul_draft.db
+extension/node_modules/
+extension/dist/
+extension/*.tsbuildinfo
