@@ -16,7 +16,8 @@ export default defineManifest({
       '128': 'icons/icon_128.png',
     },
   },
-  permissions: ['storage', 'tabs'],
+  permissions: ['storage', 'activeTab'],
+  host_permissions: ['*://*.xiaohongshu.com/*'],
   content_scripts: [
     {
       matches: ['*://xiaohongshu.com/*', '*://www.xiaohongshu.com/*'],
