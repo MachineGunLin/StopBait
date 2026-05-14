@@ -64,15 +64,7 @@ StopBait 不是“内容过滤器”这四个字。
 
 ## 如何开始使用
 
-Chrome 商店还在审核，审核通过后可以直接在 chrome 商店安装此插件。  
-现在建议直接上「极客内测版」，一步一步来就行：
-
-1. 前往 [Releases 页面](https://github.com/MachineGunLin/StopBait/releases/tag/v1.0.0)
-2. 下载最新版 `StopBait-v1.0.0-Chrome.zip`。
-3. 解压压缩包，你会看到一个 `dist` 文件夹。
-4. 打开 Chrome，在地址栏输入 `chrome://extensions/`。
-5. 开启右上角的「开发者模式」。
-6. 点击左上角的「加载已解压的扩展程序」，选择刚才那个 `dist` 文件夹。
+Chrome 商店搜索 `StopBait` 即可安装。
 
 ---
 
